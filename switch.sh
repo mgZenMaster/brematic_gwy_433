@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# This file is distributed under
+# 
+# GNU GENERAL PUBLIC LICENSE
+# Version 3, 29 June 2007
+#
+
 HEAD="TXP:0,0,10,5600,350,25,"
 hi="3,1,3,1,"
 lo="3,3,1,1,"
